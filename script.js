@@ -119,6 +119,6 @@ if (!reducedMotion && window.gsap && window.ScrollTrigger) {
     yPercent: -2,
     scale: 1,
     ease: 'none',
-    scrollTrigger: { trigger: '.mobile-section', start: 'top bottom', end: 'bottom top', scrub: .8 }
+    scrollTrigger: { trigger: '.download-section', start: 'top bottom', end: 'bottom top', scrub: .8 }
   });
 }
